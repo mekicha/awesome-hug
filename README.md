@@ -15,3 +15,9 @@ Awesome API Star [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3
 - [Official website](http://www.hug.rest/)
 
 ## Resources
+
+
+## Tutorials
+- [Building a Web Application with Hug, MongoDb, and Vue.js](https://ffx01.github.io/jwdev/tutorials/building-web-app-hug-mongodb-vue/)
+
+- [Docker and hug tutorial](https://github.com/j5awry/docker-hug-tutorial)
